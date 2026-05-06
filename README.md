@@ -1,5 +1,5 @@
 # Practical-Application-2---Used-Car-Dealerships
-Berkeley ML-AI Course, Practical Application Week 11, May 6, 2026, by Timothy Vermette
+Berkeley ML-AI Professional Certificate, Practical Application Week 11, May 6, 2026, by Timothy Vermette
 
 # What Drives Used Car Prices? Case Study for Used Car Dealerships
 
