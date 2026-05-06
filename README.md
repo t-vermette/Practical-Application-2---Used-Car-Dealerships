@@ -4,7 +4,7 @@ Berkeley ML-AI Course, Practical Application Week 11, May 6, 2026, by Timothy Ve
 # What Drives Used Car Prices? Case Study for Used Car Dealerships
 
 ## Link to Jupyter Notebook on GitHub
-
+https://github.com/t-vermette/Practical-Application-2---Used-Car-Dealerships/blob/main/Practical%20Application%202.ipynb
 
 ## Overview
 Our objective here is to determine the factors that impact used car prices in order to make business recommendations to clients that own used car dealerships. 
